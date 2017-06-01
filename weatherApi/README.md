@@ -11,6 +11,7 @@ This script is organized into two parts:
 1. Get API key from https://openweathermap.org/appid
 2. Install python https://www.python.org/downloads/
 3. Install a gui for running python, rodeo recommended: https://www.yhat.com/products/rodeo
+4. Create a slack app and get the proper slack url to post your payload: https://api.slack.com/slack-apps
 
 ## Built With
 
