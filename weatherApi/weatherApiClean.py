@@ -1,4 +1,4 @@
-#This script calls the weathermap.org API to get current weather data for Toronto
+#This script calls the openweathermap.org current weather forecast API to get current weather data for Toronto
 
 import requests
 import datetime
