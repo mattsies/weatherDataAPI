@@ -8,9 +8,9 @@ This script is organized into two parts:
 
 ## Getting Started
 
-Get API key from https://openweathermap.org/appid
-Install python https://www.python.org/downloads/
-Install a gui for running python, rodeo recommended: https://www.yhat.com/products/rodeo
+1. Get API key from https://openweathermap.org/appid
+2. Install python https://www.python.org/downloads/
+3. Install a gui for running python, rodeo recommended: https://www.yhat.com/products/rodeo
 
 ## Built With
 
