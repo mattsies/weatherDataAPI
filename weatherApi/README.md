@@ -2,14 +2,15 @@
 
 This script is a great introduction to using python to call APIs and push data to slack.
 
-
 This script is organized into two parts:
-1. *weathermap.org API request* pulls current weather data for a city, parses into a json file and stores specific fields into a dictionary called weatherData.
+1. *openweathermap.org API request* pulls current weather data for a city, parses into a json file and stores specific fields into a dictionary called weatherData.
 2. *slack API post* weatherData dictionary is stored as a text string and pushed to slack using incoming API webhook.
 
 ## Getting Started
 
+Get API key from https://openweathermap.org/appid
 Install python https://www.python.org/downloads/
+Install a gui for running python, rodeo recommended: https://www.yhat.com/products/rodeo
 
 ## Built With
 
