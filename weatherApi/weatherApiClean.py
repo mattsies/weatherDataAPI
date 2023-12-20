@@ -13,12 +13,12 @@ weatherUrl = 'http://api.openweathermap.org/data/2.5/weather?id='+id+'&APPID='+a
 
 #Performing get request and saving in resp object
 resp = requests.get(weatherUrl)
-#Userful calls for accessing the 'resp' object below:
+#Useful calls for accessing the 'resp' object below:
 #resp.headers
 #resp.text
 #resp.status_code
 
-#Looding resp as json object
+#Loading resp as json object
 respJson = resp.json()
 #Userful calls for accessing the 'respJson' object below:
 #respJson.keys()
